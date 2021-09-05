@@ -18,7 +18,7 @@ After cloning the repository you must locally install the required packages by r
 User can select to view existing notes or use the "pencil" icon to create a new note and save it using the "save" icon         
           
 ## Screenshot
-
+<img width="1154" alt="note-taker" src="https://user-images.githubusercontent.com/82120954/132120615-d8692a01-ce7f-4e76-92ad-5ce4b582fbe4.png">
 
 ## [Questions](#table-of-contents)
 Please contact me using the following links:
