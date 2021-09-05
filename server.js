@@ -11,6 +11,7 @@ const readFileAsync = util.promisify(fs.readFile);
 app.use(express.urlencoded({ extended: true }));
 // parse incoming JSON data
 app.use(express.json());
+app.use(express.static(__dirname + '/public'));
 
 
 app.get("/api/notes", (req,res)=>{
